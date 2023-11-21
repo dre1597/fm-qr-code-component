@@ -32,7 +32,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 [//]: # (- Solution URL: [Add solution URL here]&#40;https://your-solution-url.com&#41;)
 
-[//]: # (- Live Site URL: [Add live site URL here]&#40;https://your-live-site-url.com&#41;)
+- Live Site URL: [GitHub Pages](https://dre1597.github.io/fm-qr-code-component/)
 
 ## My process
 
