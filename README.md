@@ -28,9 +28,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-[//]: # ()
-
-[//]: # (- Solution URL: [Add solution URL here]&#40;https://your-solution-url.com&#41;)
+- Solution
+  URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-flexbox-and-new-builtin-css-nesting-yAewfn9MpS)
 
 - Live Site URL: [GitHub Pages](https://dre1597.github.io/fm-qr-code-component/)
 
